@@ -164,7 +164,7 @@ function run_vij_logged_in_buddypress() {
 	
 		}
 		$avatars.="</div>";
-		echo $avatars;
+		echo $avatars;//changing
 	}
 }
 
