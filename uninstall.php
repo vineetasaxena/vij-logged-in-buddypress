@@ -24,7 +24,7 @@
  *
  * @package    Vij_Logged_In_Buddypress
  */
-
+//
 // If uninstall not called from WordPress, then exit.
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 	exit;
